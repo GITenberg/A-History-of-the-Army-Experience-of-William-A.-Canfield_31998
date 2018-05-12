@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35608'
     url: http://www.gutenberg.org/2009/agents/35608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31998#A-History-of-the-Army-Experience-of-William-A.-Canfield
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-15'
 gutenberg_type: Text
